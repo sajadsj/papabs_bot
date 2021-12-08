@@ -6,10 +6,10 @@ from tinydb import Query
 
 import telegram.ext
 from telegram.ext import *
-import tok
+
 
 # Initial telegram bot
-token = tok.tok
+token = 'your API token'
 updater = Updater(token, use_context=True)
 jobs = updater.job_queue
 
