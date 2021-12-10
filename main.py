@@ -1,3 +1,6 @@
+ # Title: Paper Abstract Telegram robot
+ # Project aim: Working with APIs in Python
+ # by: SajadSojoudi@gmail.com
 import urllib3
 from bs4 import BeautifulSoup
 import goslate
